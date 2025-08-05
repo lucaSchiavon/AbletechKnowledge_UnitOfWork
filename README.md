@@ -1,0 +1,1 @@
+Come implementare UOW con DbContext di entity framework (utile come impianto generale per sviluppare lo strato di librerie per l'accesso ai dati con la gestione atomica di più istruzioni di modifica dati lanciate da servizi differenti)
